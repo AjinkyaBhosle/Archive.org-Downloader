@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+.idea/
+.vscode/
+
+# Archive/PDF Downloads (Ignore large books)
+*.pdf
+*.zip
+*.tar.gz
+*.mp4
+*.mp3
+
+# Logs
+*.log
+cmd.txt
